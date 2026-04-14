@@ -26,7 +26,7 @@ Chest X-ray dataset (Kaggle):
 ```bash
 python src/train.py
 python show_pneumonia.py
-
+```
 📁  PROJECT STRUCTURE
 
 ```
