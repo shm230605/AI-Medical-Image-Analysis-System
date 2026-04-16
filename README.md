@@ -22,10 +22,6 @@ Chest X-ray dataset (Kaggle):
 - Convolutional Neural Network (CNN)
 - Binary classification (Normal vs Pneumonia)
 
-## 🚀 How to Run
-```bash
-python src/train.py
-python show_pneumonia.py
 
 📁  PROJECT STRUCTURE
 
